@@ -58,6 +58,3 @@ The following file has been used as a build system for C++ programs.
 
 ### Other Notes
 The setup for windows has been downloaded from [MINGW.ORG](https://sourceforge.net/projects/mingw/files/)
-
-## Author
-Deepak Aggarwal
