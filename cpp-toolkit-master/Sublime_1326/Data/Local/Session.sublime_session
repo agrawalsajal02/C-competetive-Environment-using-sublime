@@ -4,8 +4,8 @@
 		"/C/Users/deepak_aggarwal/Downloads/Ex_Files_GIT_EssT/Chapter 06/06_01/explore_california",
 		"/C/Users/User/Desktop/cpp-toolkit/launchpad"
 	],
-	"last_version": 3143,
-	"last_window_id": 47,
+	"last_version": 3211,
+	"last_window_id": 68,
 	"log_indexing": false,
 	"settings":
 	{
@@ -17,12 +17,192 @@
 				"selected_items":
 				[
 					[
-						"pr",
+						"grap",
+						"graph-30(prims_set_1(elogv))\tgraph-30(prims_set_1(elogv))"
+					],
+					[
+						"graph",
+						"graph-12(kruskals)\tgraph-kuruskals"
+					],
+					[
+						"ed",
+						"edges"
+					],
+					[
+						"gra",
+						"graph-10_1(topo_sort_using_bfs(kahn_algo))\tgraph-10_1(topo_sort_using_bfs(kahn_algo))"
+					],
+					[
+						"to",
+						"topological_sort-dfs\ttopological_sort-dfs"
+					],
+					[
+						"c",
+						"checker"
+					],
+					[
+						"fen",
+						"fenwick_tree(dperm(codechef))\tfenwick_tree(dperm(codechef))"
+					],
+					[
+						"pri",
+						"primes"
+					],
+					[
+						"prime",
 						"prime_seive_for_find_divisor_of_n(logn)\tprime_seive_for_find_divisor_of_n(logn)"
 					],
 					[
+						"seg",
+						"seg_tree(max_queries)\tseg_tree(max_queries)"
+					],
+					[
+						"se",
+						"seg_tree(max_queries)\tseg_tree(max_queries)"
+					],
+					[
+						"fibo",
+						"fibo_cpp(logn)\tfibo_cpp(logn)"
+					],
+					[
+						"fib",
+						"fibonachaii_series\tfibonachaii_series"
+					],
+					[
+						"max",
+						"max_pre"
+					],
+					[
+						"su",
+						"max_suff"
+					],
+					[
+						"pre",
+						"max_pre"
+					],
+					[
+						"in",
+						"index"
+					],
+					[
+						"fas",
+						"fastinput\tfast"
+					],
+					[
+						"fa",
+						"fastinput\tfast"
+					],
+					[
+						"bina",
+						"binary_search_a2(find_max_in_rotated_array)\tbs_find_pivot"
+					],
+					[
+						"bin",
+						"binary_search(ex-1)\tbinary_search(ex-1)"
+					],
+					[
+						"p",
+						"push_back\tpush_back"
+					],
+					[
+						"id",
+						"id-14(josephus)\tid-14(josephus)"
+					],
+					[
+						"dp",
+						"dp-3(cutting_rod_problem)\tdp-3(cutting_rod_problem)"
+					],
+					[
+						"fast",
+						"fastinput\tfast"
+					],
+					[
+						"gcd",
+						"gcc-obtimized\tgcc-obtimized"
+					],
+					[
+						"pr",
+						"priority_queue(max)\tpriority_queue(max)"
+					],
+					[
+						"phs",
+						"push"
+					],
+					[
+						"mo",
+						"mod\tmod"
+					],
+					[
+						"co",
+						"continue\tcontinue"
+					],
+					[
+						"temp",
+						"temp2"
+					],
+					[
+						"one",
+						"one2"
+					],
+					[
+						"nc",
+						"nCrModPFermat"
+					],
+					[
+						"mod",
+						"mod\tmod"
+					],
+					[
+						"mul",
+						"matrix_chain_multiplication\tmatrix_chain_multiplication"
+					],
+					[
+						"tr",
+						"tree_order_statistics_node_update"
+					],
+					[
+						"ex",
+						"exit"
+					],
+					[
+						"con",
+						"concept-2(diff_btw_segtree_and_sqrtdecmop)\tconcept-2(diff_btw_segtree_and_sqrtdecmop)"
+					],
+					[
+						"dp-2",
+						"dp-42(egg_dropping)\tdp-42(egg_dropping)"
+					],
+					[
+						"bip",
+						"bipartite_dfs\tbipartite_dfs"
+					],
+					[
+						"grah",
+						"graph-10_1(topo_sort_using_bfs(kahn_algo))\tgraph-10_1(topo_sort_using_bfs(kahn_algo))"
+					],
+					[
+						"di",
+						"disc"
+					],
+					[
+						"v",
+						"visited"
+					],
+					[
+						"lo",
+						"low"
+					],
+					[
+						"a",
+						"articlulationpnt"
+					],
+					[
+						"cl",
+						"cld"
+					],
+					[
 						"prim",
-						"prime_seive_for_find_divisor_of_n(logn)\tprime_seive_for_find_divisor_of_n(logn)"
+						"prime(rootn_check)\tprime(rootn_check)"
 					],
 					[
 						"ta",
@@ -37,28 +217,12 @@
 						"trans"
 					],
 					[
-						"dp",
-						"dp-15(knapsack(0/1)/_bottom_up)\tdp-15(knapsack(0_1)_bottom_up)"
-					],
-					[
 						"we",
 						"wei"
 					],
 					[
-						"gra",
-						"graph-10_1(topo_sort_using_bfs(kahn_algo))\tgraph-10_1(topo_sort_using_bfs(kahn_algo))"
-					],
-					[
 						"toposo",
 						"toposort"
-					],
-					[
-						"grap",
-						"graph-5(dfs)\tgraph-5(dfs)"
-					],
-					[
-						"graph",
-						"graph-4(bfs)\tgraph-4(bfs)"
 					],
 					[
 						"vi",
@@ -85,10 +249,6 @@
 						"bfs\tbfs"
 					],
 					[
-						"fast",
-						"fastmodexp\tfastmodexp"
-					],
-					[
 						"re",
 						"recur"
 					],
@@ -101,36 +261,12 @@
 						"ans"
 					],
 					[
-						"fa",
-						"fastinput\tfast"
-					],
-					[
-						"mod",
-						"mod(constant_time)\tmod(constant_time)"
-					],
-					[
-						"fas",
-						"fastmodexp\tfastmodexpwithbitmask"
-					],
-					[
-						"con",
-						"concept-1(string_to_num)\tconcept-1(string_to_num)"
-					],
-					[
 						"ED",
 						"endl"
 					],
 					[
-						"fen",
-						"fenwick_tree(prefix_max)\tfedwick_tree(prefix_max)"
-					],
-					[
 						"f",
 						"f\tfor_loop_for_cp"
-					],
-					[
-						"in",
-						"indeg"
 					],
 					[
 						"dis",
@@ -145,24 +281,12 @@
 						"euler_graph_print(fluery_algo)\teuler_graph_print(fluery_algo)"
 					],
 					[
-						"mo",
-						"mod(constant_time)\tmod(constant_time)"
-					],
-					[
 						"grra",
 						"graph-clear\tgraph-clear"
 					],
 					[
 						"sa",
 						"seg_tree(update_range)\tseg_tree(update_range)"
-					],
-					[
-						"pri",
-						"prime_seive_for_find_divisor_of_n(logn)\tprime_seive_for_find_divisor_of_n(logn)"
-					],
-					[
-						"mul",
-						"multiplicativemoduloinverse(Exten_euclid)\tmultiplicativemoduloinverse(Exten_euclid)"
 					],
 					[
 						"b",
@@ -209,14 +333,6 @@
 						"no_of_mat"
 					],
 					[
-						"seg",
-						"seg_seive"
-					],
-					[
-						"se",
-						"second"
-					],
-					[
 						"bo",
 						"bottomup"
 					],
@@ -251,10 +367,6 @@
 					[
 						"lef",
 						"left_MMS"
-					],
-					[
-						"bina",
-						"binary_search(search_in_sorted_array)\tbinary_search(search_in_sorted_array)"
 					],
 					[
 						"graph-",
@@ -293,10 +405,6 @@
 						"lcm\tlcm"
 					],
 					[
-						"lo",
-						"long-long-long-int(128bit)\tlong-long-int"
-					],
-					[
 						"dp-",
 						"dp-13(coin_change_problem-(noofcoin))\tdp-13(coin_change_problem-(noofcoin))"
 					],
@@ -323,10 +431,6 @@
 					[
 						"beg",
 						"begin"
-					],
-					[
-						"ed",
-						"endl\tendl"
 					],
 					[
 						"mp",
@@ -369,10 +473,6 @@
 						"nodedistance"
 					],
 					[
-						"di",
-						"dijkstra"
-					],
-					[
 						"new",
 						"newvalue"
 					],
@@ -381,16 +481,8 @@
 						"weight"
 					],
 					[
-						"co",
-						"color"
-					],
-					[
 						"fin",
 						"findDiff"
-					],
-					[
-						"su",
-						"subtract"
 					],
 					[
 						"min",
@@ -413,10 +505,6 @@
 						"MAX"
 					],
 					[
-						"p",
-						"p_cnt"
-					],
-					[
 						"sor",
 						"source"
 					],
@@ -429,18 +517,6 @@
 						"edges"
 					],
 					[
-						"a",
-						"addedge"
-					],
-					[
-						"v",
-						"vector\tstd::vector"
-					],
-					[
-						"to",
-						"topological_sort"
-					],
-					[
 						"g",
 						"graph-3(Bfs_using_class)\tgraph-3(Bfs_using_class)"
 					],
@@ -451,82 +527,6 @@
 					[
 						"dp-1",
 						"dp-1(min-steps-requ-to-red-to-1)\tdp-1(min-steps-requ-to-red-to-1)"
-					],
-					[
-						"id-ra",
-						"id-15(rat-in-a-maze)\tid-15(rat-in-a-maze)"
-					],
-					[
-						"id",
-						"id-12.1(permutation-of-string-backtracking)\tid-12-1(permutation-of-string-backtracking)"
-					],
-					[
-						"per",
-						"permute"
-					],
-					[
-						"multi",
-						"multiply"
-					],
-					[
-						"sh",
-						"shoptrip"
-					],
-					[
-						"shop",
-						"shops"
-					],
-					[
-						"ca",
-						"calc_dis"
-					],
-					[
-						"VII",
-						"visited_all"
-					],
-					[
-						"coi",
-						"coin_change"
-					],
-					[
-						"c",
-						"coin_change"
-					],
-					[
-						"k",
-						"k_lcs"
-					],
-					[
-						"en",
-						"endl\tendl"
-					],
-					[
-						"i",
-						"i"
-					],
-					[
-						"num",
-						"num"
-					],
-					[
-						"d",
-						"do\tDo While Loop"
-					],
-					[
-						"id-",
-						"id-12(phone-keypad)\tid-12(phone-keypad)"
-					],
-					[
-						"id-1",
-						"id-11(permutation-of-string)\tid-11(permutation-of-string)"
-					],
-					[
-						"tt",
-						"tt"
-					],
-					[
-						"bg",
-						"begin"
 					]
 				]
 			},
@@ -584,10 +584,14 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 392.0,
-				"last_filter": "Package Control: ",
+				"height": 490.0,
+				"last_filter": "ins",
 				"selected_items":
 				[
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
 					[
 						"Package Control: ",
 						"Package Control: Disable Package"
@@ -665,7 +669,7 @@
 						"Extract Sublime Package: Extract all packages"
 					]
 				],
-				"width": 452.0
+				"width": 708.0
 			},
 			"console":
 			{
@@ -685,6 +689,48 @@
 			},
 			"file_history":
 			[
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/nee.cpp",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/binary_search(peak_element).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/no of pair with sum.sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/binary_search(peak).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/pie.sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/file.cpp",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/fibonacci(logn).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/fibo_cpp(logn).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/seg_tree(fibonacci_meets_gcd).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/seg_tree(max_queries).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/seg_tree(horrible).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/seg_tree(gss1).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/array-5(stock_buy_sell).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/divide_and_conquer(simple enough).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/bs_find_pivot.sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/binary_search_a1(square_root_upto_p_presision).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/id-14(josephus).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/power_set.sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/prime_seive_theory.sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/push_back.sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/bst-1(insert_search_delete).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/heap-1(median_in_running_stream).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/precision.sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/probability(coupen_collector).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/bigint.sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/divisors(npow1by3).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/ncr.sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/vector_2d.sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/dp-51(max_sub_square_matrix).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/dp-51(wild_card_matching).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/fenwick_tree(Inversioncount_pbds).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/pbds.sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/priority_queue_question.sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/dp-42(egg_dropping).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/graph-31(articulation_points).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/continue.sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/dp-50(min_vertix_cover).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/WakaTime/WakaTime.sublime-settings",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/WakaTime.sublime-settings",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/bitmask_subset_sum.sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/output.in",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/fi.cpp",
 				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/graph-24(checking_scc_compo).sublime-snippet",
 				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/dp-15(knapsack(0_1)_bottom_up).sublime-snippet",
 				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/read.sublime-snippet",
@@ -770,53 +816,11 @@
 				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/seg_tree(update_node).sublime-snippet",
 				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/seg_tree(update_range).sublime-snippet",
 				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/sed_tree(build).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/seg_tree(query).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/segmenttree_full_code.sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/bfs(2d-mini-knight-move).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/concept-1(string_to_num).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/lca_problem-1.sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/LCA_SPOJ_PRO.sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/lca.sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/graph-clear.sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/long-long-int.sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/bfs",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/graph-16(bellman-ford-sssp_negative).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/graph-15(dijkstra algo(elogv using set)).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/graph-14(dijkstra-n2square).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/graph-17(edmond-karp-algo).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/bfs_cycle_check.sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/graph_dfs_string.sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/graph_cycle_by_DSU.sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/2d-array.sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/graph-13(PRIMS_ALG).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/graph-10(disjoint_set_union).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/graph-kuruskals.sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/graph-11(dSA_by_rank_path_compression).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/bipartite_dfs.sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/bipartite.sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/dfs_cycle_check.sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/graph-9(bipartite).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/graph-8(floodfill).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/graph-7(dfs_cycle_check).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/graph-6(bfs_cycle_check).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/graph-4(bfs).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/topological_sort-dfs.sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/id-15(rat-in-a-maze).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/graph-5(dfs).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/dfs.sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/codeforces.sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/graph-2(repe-using-map).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/bfs.sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/graph-3(Bfs_using_class).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/dp-12(tsp_app_bear_and_shop_codechef).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/graph-1(repre-using-adlist-int).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/id-17(convex-hull-graham-scan).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/id-16(convex-hull).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/myfile.cpp"
+				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/seg_tree(query).sublime-snippet"
 			],
 			"find":
 			{
-				"height": 41.0
+				"height": 53.0
 			},
 			"find_in_files":
 			{
@@ -830,73 +834,13 @@
 				"case_sensitive": true,
 				"find_history":
 				[
-					"float",
-					"6521",
-					"2934894 | 2937334\n",
-					"finnd",
-					"}\n",
-					"1",
-					"PRVasFSaDAflAa",
-					"PRuvetSTAaYA",
-					"4328 407",
-					"vvvovvv",
-					")/])){",
-					"1",
-					"rr2",
-					"4",
-					"1",
-					"#include<bits/stdc++.h>\nusing namespace std;\n#define ll long long int\nint main(){\nll h,q;cin>>h>>q;\nchar in[h][q];\nfor(ll x=0;x<h;x++){\n for(ll w=0;w<q;w++){\n     cin>>in[x][w];   \n    }   \n}\n\nll flag=0;\nll le=-1,re=-1,up=-1,dw=-1;ll cn=-1;\nfor(ll x=0;x<h;x++){\n ll w=0;\n for(w=0;w<q;w++){\n    if((le!=-1||re!=-1||up!=-1||dw!=-1||cn!=-1)&&(in[x][w]=='*')){\n        flag=1;\n    //cout<<\" h1\"<<endl;\n        break;\n    }\n     if(in[x][w]=='*'){\n        if(in[x+1][w]!='*'){\n            flag=1;\n        }\n        else{\n            ll lr=-1;\n           \n            if(w-1<0||w+1>=q){\n                flag=1;\n               // cout<<\" h3\"<<endl;\n                break;\n            }\n            in[x][w]='.';\n            up=w;\n        for(ll y=x+1;y<h;y++){\n           dw=y;\n            in[y][w]='.';\n          if((in[y][w+1]=='*')&&(in[y][w-1]!='*')){\n         flag=1;break;\n          }\nif((in[y][w+1]!='*')&&(in[y][w-1]=='*')){\n     flag=1;break;\n          }\n          if((in[y][w+1]=='*')&&(in[y][w-1]=='*')){\n            cn=y;\n            //cout<<\" w+1 \"<<w<<endl;\n         for(ll u=w+1;u<q;u++){\n            if(in[y][u]=='*'){\n              re=u;\n           //   cout<<\"here\"<<endl;\n              in[y][u]='.';\n\n            }\n            else{\n                break;\n            }\n         }\n         for(ll u=w-1;u>=0;u--){\n            if(in[y][u]=='*'){\n              le=u;\n                     in[y][u]='.';\n\n            }\n            else{\n                break;\n            }\n         }\n\n         //cout<<\"y\"<<y<<\" \"<<in[y+1][w]<<endl;\n         if(in[y+1][w]!='*'){\n     flag=1;\n        }\n\n         \n          }\n        } \n    \n        }\n\n     }   \n    if(flag==1){\n        break;\n    }\n    }\n  \n    if(flag==1){\n        break;\n    }\n}\n\nif(flag==1){\n    cout<<\"NO\"<<endl;\n}\nelse{\n    cout<<\"YES\"<<endl;\n}\n}\n",
-					"j",
-					"1",
-					"profit",
-					"())   ",
-					" >(",
-					">>(",
-					"begin",
-					"    \n",
-					"\");\n",
-					"variables",
-					"function",
+					"9",
+					"i",
 					";\n",
-					"i ",
-					"[0-9]   ",
-					"4315",
-					"!",
-					"gcc",
-					"cutLen",
-					" ;",
-					"prim",
-					"string",
-					"false",
-					"NAME",
-					"expr",
-					"np",
-					"addMi",
-					"add",
-					"addMinus",
-					"\t\t//calculate the result corresponding to token\n",
-					"Token_value get_t",
-					"Token_value get_to",
-					"get_to",
-					"get",
-					"token",
-					"mai",
-					"main",
-					"visisted",
-					"cout",
-					"public",
-					"nV",
-					"element",
-					"push",
-					" ;",
-					"        {{",
-					"\n#",
-					"//Deepak Aggarwal, Coding Blocks\n\n#include <iostream>\nusing namespace std;\nint main(){\n\t// 12;\n\t\n\tchar *ptr = \"abc\";\n\tchar arr[] = \"abc\";\n\t// ptr[0] = 'k';\n\tarrr[0] = 'k';\n\tcout << ptr;\n\n\n\t// char s1[] = \"abc\";\n\n\n\t// char s2[] = s1;\t\n\n}",
-					"include",
-					"}\n",
-					"dim",
-					"N",
-					";\n"
+					"5",
+					"parent",
+					"y_set",
+					"x_set"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -904,14 +848,6 @@
 				"regex": true,
 				"replace_history":
 				[
-					"double",
-					"div",
-					"",
-					"4314",
-					"curLen",
-					"visited",
-					"10",
-					"dim"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -921,7 +857,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 27.0
+				"height": 35.0
 			},
 			"input":
 			{
@@ -934,7 +870,7 @@
 			},
 			"output.exec":
 			{
-				"height": 127.0
+				"height": 204.0
 			},
 			"output.find_results":
 			{
@@ -943,7 +879,7 @@
 			"pinned_build_system": "Packages/User/c++input.sublime-build",
 			"replace":
 			{
-				"height": 73.0
+				"height": 65.0
 			},
 			"save_all_on_build": false,
 			"select_file":
@@ -998,416 +934,280 @@
 				"selected_items":
 				[
 					[
-						"local",
-						"localminima"
-					],
-					[
-						"loca",
-						"localminima"
-					],
-					[
-						"no",
-						"noofmatrices"
-					],
-					[
-						"dp",
-						"dpbottom"
-					],
-					[
-						"prime",
-						"prime_seive(1 to n generator)\tprime_seive"
-					],
-					[
-						"e",
-						"endl\tendl"
+						"fas",
+						"fastexp\tfastexp"
 					],
 					[
 						"seg",
-						"seg_tree(query)\tseg_tree(query)"
+						"seg_tree(update_node)\tseg_tree(update_node)"
 					],
 					[
-						"con",
-						"concept-1(string_to_num)\tconcept-1(string_to_num)"
+						"mu",
+						"multiplicativemoduloinverse\tmultiplicativemoduloinverse"
 					],
 					[
-						"t",
-						"trie-5(count_prefix_of_set_of_words)\ttrie-5(count_prefix_of_set_of_words)"
+						"back",
+						"backtracking-1(rat_in_maze)\tbacktracking-1(rat_in_maze)"
 					],
 					[
-						"s",
-						"seg_tree(build)\tsed_tree(build)"
+						"dp",
+						"dp-grid\tdp-grid"
 					],
 					[
-						"l",
-						"light_new_car\tlight_new_car"
-					],
-					[
-						"i",
-						"id-14(nqueen)\tid-14(nqueen)"
-					],
-					[
-						"g",
-						"graph-8(floodfill)\tgraph-8(floodfill)"
-					],
-					[
-						"prim",
-						"prime(rootn_check)\tprime(rootn_check)"
-					],
-					[
-						"pri",
-						"prime_seive_theory\tprime_seive_theory"
-					],
-					[
-						"p",
-						"prime-generation_in_range_nsquare\tprime-generation_in_range_nsquare"
-					],
-					[
-						"d",
-						"divisors\tdivisors"
-					],
-					[
-						"c",
-						"concept-7(time_comple)\tconcept-7(time_comple)"
-					],
-					[
-						"b",
-						"bipartite_dfs\tbipartite_dfs"
-					],
-					[
-						"a",
-						"algo\talgo"
-					],
-					[
-						"cows",
-						"cowstaken"
-					],
-					[
-						"graph",
-						"graph-10_1(topo_sort_using_bfs(kahn_algo))\tgraph-10_1(topo_sort_using_bfs(kahn_algo))"
+						"grap",
+						"graph-55(travelling_sales_man)\tgraph-55(travelling_sales_man)"
 					],
 					[
 						"gra",
-						"graph-14(dijkstra-n2square)\tgraph-14(dijkstra-n2square)"
-					],
-					[
-						"is",
-						"isarticulation"
-					],
-					[
-						"lo",
-						"low"
-					],
-					[
-						"pon",
-						"points"
-					],
-					[
-						"di",
-						"discoverytime"
-					],
-					[
-						"ga",
-						"graph-40(dijkstra_full_code)\tgraph-40(dijkstra_full_code)"
-					],
-					[
-						"trie",
-						"trie2-(string_search_good_implement)\ttrie2-(string_search_good_implement)"
-					],
-					[
-						"ba",
-						"basics\tbasics"
-					],
-					[
-						"tri",
-						"trienode"
-					],
-					[
-						"tr",
-						"trienode"
-					],
-					[
-						"tir",
-						"trie2-(string_search_good_implement)\ttrie2-(string_search_good_implement)"
-					],
-					[
-						"w",
-						"wantprocess"
+						"graph-55(travelling_sales_man)\tgraph-55(travelling_sales_man)"
 					],
 					[
 						"ma",
-						"max"
+						"maxi"
 					],
 					[
-						"al",
-						"allocation"
+						"sine",
+						"sinuptime"
 					],
 					[
-						"val",
-						"value"
+						"sin",
+						"sinuptime"
 					],
 					[
-						"max",
-						"maxindex"
+						"bipa",
+						"bipartite_dfs\tbipartite_dfs"
 					],
 					[
-						"in",
-						"insertnode"
+						"grp",
+						"graph-21(floyd_warshal)\tgraph-21(floyd_warshal)"
 					],
 					[
-						"tre",
-						"trienode"
+						"graph",
+						"graph-13(PRIMS_ALG)\tgraph-13(PRIMS_ALG)"
+					],
+					[
+						"scc",
+						"scc"
+					],
+					[
+						"pus",
+						"push_back\tpush"
+					],
+					[
+						"bfs",
+						"bfs_cycle_check\tbfs_cycle_check"
 					],
 					[
 						"dfs",
 						"dfs_directed_cycle_check\tdfs_directed_cycle_check"
 					],
 					[
-						"pra",
-						"pcrawl"
+						"pri",
+						"priority_queue(min_pq)\tpriority_queue(min_pq)"
 					],
 					[
-						"Trie",
-						"Trienode"
-					],
-					[
-						"grap",
-						"graph-20(dijkstra(set_cp))\tgraph-20(dijkstra(set_cp))"
-					],
-					[
-						"y",
-						"y_par"
-					],
-					[
-						"ke",
-						"keyss"
-					],
-					[
-						"ava",
-						"availdoor"
-					],
-					[
-						"child",
-						"child2"
-					],
-					[
-						"push",
-						"push"
-					],
-					[
-						"chi",
-						"child2"
-					],
-					[
-						"chil",
-						"child1"
-					],
-					[
-						"vs",
-						"visited"
-					],
-					[
-						"bak",
-						"backtracking-1(rat_in_maze)\tbacktracking-1(rat_in_maze)"
-					],
-					[
-						"do",
-						"double"
-					],
-					[
-						"va",
-						"val2"
-					],
-					[
-						"ans",
-						"ansa"
-					],
-					[
-						"fi",
-						"final"
-					],
-					[
-						"an",
-						"ansa"
-					],
-					[
-						"en",
-						"endl\tendl"
-					],
-					[
-						"id",
-						"id-16(sudokosolver)\tid-16(sudokosolver)"
-					],
-					[
-						"bac",
-						"backtracking-4(hamiltonion_path)\tbacktracking-4(hamiltonion_path)"
-					],
-					[
-						"mila",
-						"milakyanayastate"
-					],
-					[
-						"tu",
-						"true"
-					],
-					[
-						"vi",
-						"visited"
-					],
-					[
-						"m",
-						"m_color"
-					],
-					[
-						"fas",
-						"fastinput\tfast"
-					],
-					[
-						"bas",
-						"basics\tbasics"
-					],
-					[
-						"mod",
-						"multiplicativemoduloinverse\tmultiplicativemoduloinverse"
-					],
-					[
-						"as",
-						"ans2"
-					],
-					[
-						"au",
-						"aux"
-					],
-					[
-						"psh",
-						"push_back"
-					],
-					[
-						"fen",
-						"fenwick_tree(bit_range_sum)\tfenwick_tree(bit)"
-					],
-					[
-						"bina",
-						"boring_factorials\tboring_factorials"
-					],
-					[
-						"bi",
-						"binary_search_stl\tbinary_search_stl"
+						"se",
+						"second"
 					],
 					[
 						"pr",
-						"prime_seive_for_find_divisor_of_n(logn)\tprime_seive_for_find_divisor_of_n(logn)"
+						"priority_queue(min_pq)\tpriority_queue(min_pq)"
 					],
 					[
-						"mul",
-						"multiplicativemoduloinverse\tmultiplicativemoduloinverse"
+						"heap",
+						"heapify"
 					],
 					[
-						"gcd",
-						"gcd2"
+						"hea",
+						"heapify"
 					],
 					[
-						"fastm",
-						"fastmodexp\tfastmodexpwithbitmask"
+						"ev",
+						"evenst"
 					],
 					[
-						"fast",
-						"fastmodexp\tfastmodexp"
+						"odd",
+						"oddend"
 					],
 					[
-						"prie",
-						"priority_queue(max)\tpriority_queue(max)"
+						"o",
+						"oddst"
 					],
 					[
-						"sei",
-						"seive2"
-					],
-					[
-						"contn",
-						"continue"
-					],
-					[
-						"str",
-						"strong\tTag"
-					],
-					[
-						"so",
-						"sou_par"
+						"even",
+						"evenend"
 					],
 					[
 						"new",
-						"newhash"
+						"newnode"
 					],
 					[
-						"pat",
-						"patlength"
+						"con",
+						"concept-3(string_sentence_input)\tconcept-3(string_sentence_input)"
 					],
 					[
-						"re",
-						"recalcultehash"
+						"prim",
+						"prime_seive_theory\tprime_seive_theory"
 					],
 					[
-						"st",
-						"stat"
+						"prime",
+						"prime_seive(1 to n generator)\tprime_seive"
 					],
 					[
-						"sta",
-						"start\tstart"
+						"fast",
+						"fastinput\tfast"
+					],
+					[
+						"sie",
+						"size"
+					],
+					[
+						"id",
+						"id-5(matrixexponentiation)\tmatrix-exponentialtion"
+					],
+					[
+						"int",
+						"intersect"
+					],
+					[
+						"fa",
+						"fastmodexp\tfastmodexp"
+					],
+					[
+						"eg",
+						"edges"
 					],
 					[
 						"we",
-						"weight"
-					],
-					[
-						"co",
-						"con"
-					],
-					[
-						"cn",
-						"con"
-					],
-					[
-						"x",
-						"x_root"
-					],
-					[
-						"ra",
-						"rank_dsa"
-					],
-					[
-						"mo",
-						"mod"
-					],
-					[
-						"grra",
-						"graph-13(PRIMS_ALG)\tgraph-13(PRIMS_ALG)"
-					],
-					[
-						"fin",
-						"fin_min"
-					],
-					[
-						"wei",
 						"wei"
 					],
 					[
-						"weig",
-						"weight"
-					],
-					[
-						"edge",
-						"edgelist"
-					],
-					[
 						"ed",
-						"edgelist"
+						"edges"
 					],
 					[
-						"des",
-						"dest"
+						"to",
+						"topological_sort-dfs\ttopological_sort-dfs"
 					],
 					[
-						"bipa",
+						"c",
+						"checker"
+					],
+					[
+						"fen",
+						"fenwick_tree(dperm(codechef))\tfenwick_tree(dperm(codechef))"
+					],
+					[
+						"fibo",
+						"fibo_cpp(logn)\tfibo_cpp(logn)"
+					],
+					[
+						"fib",
+						"fibonachaii_series\tfibonachaii_series"
+					],
+					[
+						"max",
+						"max_pre"
+					],
+					[
+						"su",
+						"max_suff"
+					],
+					[
+						"pre",
+						"max_pre"
+					],
+					[
+						"in",
+						"index"
+					],
+					[
+						"bina",
+						"binary_search_a2(find_max_in_rotated_array)\tbs_find_pivot"
+					],
+					[
+						"bin",
+						"binary_search(ex-1)\tbinary_search(ex-1)"
+					],
+					[
+						"p",
+						"push_back\tpush_back"
+					],
+					[
+						"gcd",
+						"gcc-obtimized\tgcc-obtimized"
+					],
+					[
+						"phs",
+						"push"
+					],
+					[
+						"mo",
+						"mod\tmod"
+					],
+					[
+						"co",
+						"continue\tcontinue"
+					],
+					[
+						"temp",
+						"temp2"
+					],
+					[
+						"one",
+						"one2"
+					],
+					[
+						"nc",
+						"nCrModPFermat"
+					],
+					[
+						"mod",
+						"mod\tmod"
+					],
+					[
+						"mul",
+						"matrix_chain_multiplication\tmatrix_chain_multiplication"
+					],
+					[
+						"tr",
+						"tree_order_statistics_node_update"
+					],
+					[
+						"ex",
+						"exit"
+					],
+					[
+						"dp-2",
+						"dp-42(egg_dropping)\tdp-42(egg_dropping)"
+					],
+					[
+						"bip",
 						"bipartite_dfs\tbipartite_dfs"
+					],
+					[
+						"grah",
+						"graph-10_1(topo_sort_using_bfs(kahn_algo))\tgraph-10_1(topo_sort_using_bfs(kahn_algo))"
+					],
+					[
+						"di",
+						"disc"
+					],
+					[
+						"v",
+						"visited"
+					],
+					[
+						"lo",
+						"low"
+					],
+					[
+						"a",
+						"articlulationpnt"
+					],
+					[
+						"cl",
+						"cld"
 					],
 					[
 						"ta",
@@ -1422,6 +1222,10 @@
 						"toposort"
 					],
 					[
+						"vi",
+						"visi"
+					],
+					[
 						"gr",
 						"graph-6(bfs_cycle_check)\tgraph-6(bfs_cycle_check)"
 					],
@@ -1434,16 +1238,20 @@
 						"for\tFor Loop"
 					],
 					[
-						"bfs",
-						"bfs\tbfs"
+						"e",
+						"endl\tendl"
+					],
+					[
+						"re",
+						"recur"
 					],
 					[
 						"eul",
 						"euler_graph_print(fluery_algo)\teuler_graph_print(fluery_algo)"
 					],
 					[
-						"fa",
-						"fastinput\tfast"
+						"as",
+						"ans"
 					],
 					[
 						"ED",
@@ -1466,8 +1274,16 @@
 						"euler_graph_print(fluery_algo)\teuler_graph_print(fluery_algo)"
 					],
 					[
+						"grra",
+						"graph-clear\tgraph-clear"
+					],
+					[
 						"sa",
 						"seg_tree(update_range)\tseg_tree(update_range)"
+					],
+					[
+						"b",
+						"basics\tbasics"
 					],
 					[
 						"de",
@@ -1490,6 +1306,14 @@
 						"endl"
 					],
 					[
+						"is",
+						"isPal"
+					],
+					[
+						"sta",
+						"start\tstart"
+					],
+					[
 						"strin",
 						"stringstream"
 					],
@@ -1498,94 +1322,165 @@
 						"no_of_mat"
 					],
 					[
-						"se",
-						"second"
-					],
-					[
 						"bo",
 						"bottomup"
 					],
 					[
+						"sei",
+						"seiveprimeotimized\tseiveprimeoptimized"
+					],
+					[
+						"bi",
+						"binary_search(ex-1)\tbinary_search(ex-1)"
+					],
+					[
 						"asn",
 						"ans1"
+					],
+					[
+						"Sc",
+						"Scan"
+					],
+					[
+						"pra",
+						"prime-generation_in_range_nsquare\tprime-generation_in_range_nsquare"
+					],
+					[
+						"fo",
+						"for-x\tfor-x"
+					],
+					[
+						"r",
+						"right_MMS"
+					],
+					[
+						"lef",
+						"left_MMS"
+					],
+					[
+						"graph-",
+						"graph-16(bellman-ford-sssp_negative)\tgraph-16(bellman-ford-sssp_negative)"
+					],
+					[
+						"l",
+						"long-long-long-int(128bit)\tlong-long-int"
+					],
+					[
+						"seg_",
+						"seg_tree(query_lazy)\tseg_tree(query_lazy)"
+					],
+					[
+						"qu",
+						"query_lazy"
+					],
+					[
+						"up",
+						"updaterangeLazy"
+					],
+					[
+						"upda",
+						"updaterange"
+					],
+					[
+						"fsa",
+						"fsmall"
+					],
+					[
+						"des",
+						"des1"
+					],
+					[
+						"lc",
+						"lcm\tlcm"
+					],
+					[
+						"dp-",
+						"dp-13(coin_change_problem-(noofcoin))\tdp-13(coin_change_problem-(noofcoin))"
+					],
+					[
+						"lca",
+						"lca\tlca"
+					],
+					[
+						"long",
+						"long-long-int\tlong-long-int"
+					],
+					[
+						"cu",
+						"coun"
+					],
+					[
+						"push",
+						"push_back"
+					],
+					[
+						"gc",
+						"gcd\tgcd"
+					],
+					[
+						"beg",
+						"begin"
+					],
+					[
+						"mp",
+						"multiplicativemoduloinverse\tmultiplicativemoduloinverse"
+					],
+					[
+						"cr",
+						"currentAug"
+					],
+					[
+						"curr",
+						"currAughPath"
+					],
+					[
+						"cp",
+						"capacity"
+					],
+					[
+						"au",
+						"AugmemtedPaths"
+					],
+					[
+						"s",
+						"source"
 					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"file": "newcool.cpp",
+					"file": "/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/asas.cpp",
 					"settings":
 					{
-						"buffer_size": 594,
+						"buffer_size": 640,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"contents": "\nvoid seive2(){\n//o nlog(logn)\n    bool prime[1000];\n    memset(prime,0,sizeof(prime));\nprime[2]=1;\nprime[1]=0;\nfor(ll i=3;i<1000;i++){\n    \n    if(i%2==1){\n        prime[i]=1;\n    }\n}\n//first optimisation , checking only the odd numbers , even numbers already cancelled except two\nfor(ll i=3;i<1000;i=i+2){\n    if(prime[i]==1){\n       \n       //second optimisation , statring from i square because numbers before i^2 is already cancelled by diveisors before i if they found multiple , therefore no need to check for them  \n    for(ll j=i*i;j<1000;j=j+i){\n        //third optimisation , after i^2 , checking for only odd , since no need to check for een numbers because they are already cancelled as if i^2 is odd and i is odd the i^2+i become even and not need to check , only check for i^2+2*i\n   prime[j]=0;\n        }\n    }\n}\nfor(ll i=0;i<1000;i++){\n    if(prime[i]){\n        cout<<i<<\" \";\n    }\n}\nprime[0]=0;\nprime[1]=0;\n\n}\n     ",
-					"file": "nee.cpp",
-					"file_size": 569,
-					"file_write_time": 132159670250888026,
+					"file": "/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/cc.cpp",
 					"settings":
 					{
-						"buffer_size": 933,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"contents": "",
-					"file": "myfile.cpp",
-					"file_size": 571,
-					"file_write_time": 132159706314534432,
-					"settings":
-					{
-						"buffer_size": 0,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "practice.cpp",
-					"settings":
-					{
-						"buffer_size": 729,
+						"buffer_size": 428,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"contents": "",
-					"file": "asas.cpp",
-					"file_size": 2993,
-					"file_write_time": 132158537766435257,
+					"contents": "const int N = 2e4 + 5;\n \nvector<int> divisors[N];\n \nvoid precompute()\n{\n    for(int i = 1; i < N; i++)\n    {\n        for(int j = 1; i * j < N; j++)\n            divisors[i * j].push_back(i);\n    }\n}\n \nint32_t main()",
+					"file": "/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/file.cpp",
+					"file_size": 948,
+					"file_write_time": 132270311159378124,
 					"settings":
 					{
-						"buffer_size": 0,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"contents": "//Matrix chain Multiplication\n//o n cobe\n#include<bits/stdc++.h>\nusing namespace std;\n#define ll long long\n\nll tdp[100][100];\nll cnt=0;\n//using recursion\nll f(ll a[],ll i,ll j){\ncnt++;\nif(i==j){\n    //base case\n    //single matrix multiply operation takes 0 cost\n    tdp[i][j]=0;\n    return 0;\n}\nif(tdp[i][j]!=-1){\n    return tdp[i][j];\n}\nll ans=INT_MAX;\nfor(ll k=i;k<j;k++){\n\n    //plus cost of multiplying two matrices\nll cost=f(a,i,k) + f(a,k+1,j) + a[i-1]*a[k]*a[j];\nans=min(ans,cost);\n}\n\nreturn tdp[i][j]=ans;\n}\n\nll bottomup(ll a[],ll n){\n    ll dp[100][100];\n\nmemset(tdp,-1,sizeof(tdp));;\n    for(ll i=1;i<n;i++){\n        dp[i][i]=0;\n    }\n\n\nfor(ll L=2;L<n;L++){\n    for(ll i=1;i<=n-L;i++){\nll  j=i+L-1;\ndp[i][j]=INT_MAX;\nfor(ll k=i;k<j;k++){\n    dp[i][j]=min(dp[i][j],dp[i][k]+dp[k+1][j]+a[i-1]*a[k]*a[j]);\n    }\n}\n}/*\nfor(ll i=1;i<n;i++){\n    for(ll j=1;j<n;j++){\n        cout<<dp[i][j]<<\" \";\n    }cout<<endl;\n}*/\nreturn dp[1][n-1];\n\n\n}\n\nint main(){\n\nll matrix[]={1,2,3,4};\nmemset(tdp,-1,sizeof(tdp));\nll n=sizeof(matrix)/sizeof(ll);\ncout<<f(matrix,1,n-1)<<endl;\n\n\n    cout<<\" count \"<<cnt<<endl;\n/*for(ll i=1;i<n;i++){\n    for(ll j=1;j<n;j++){\n        cout<<tdp[i][j]<<\" \";\n    }cout<<endl;\n}*/\n\ncout<<\" ans from bottom up \"<<endl;\ncout<<bottomup(matrix,n);\n}",
-					"file": "new.cpp",
-					"file_size": 2244,
-					"file_write_time": 132156939273392476,
-					"settings":
-					{
-						"buffer_size": 1268,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "cc.cpp",
-					"settings":
-					{
-						"buffer_size": 722,
+						"buffer_size": 214,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "input.in",
+					"file": "/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/input.in",
 					"settings":
 					{
 						"buffer_size": 97,
@@ -1594,16 +1489,15 @@
 					}
 				},
 				{
-					"file": "output.in",
+					"file": "/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/output.in",
 					"settings":
 					{
-						"buffer_size": 8,
-						"encoding": "UTF-8",
+						"buffer_size": 161,
 						"line_ending": "Windows"
 					}
 				}
 			],
-			"build_system": "Packages/User/c++input.sublime-build",
+			"build_system": "",
 			"build_system_choices":
 			[
 				[
@@ -1658,21 +1552,17 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 392.0,
-				"last_filter": "reind",
+				"height": 490.0,
+				"last_filter": "ins",
 				"selected_items":
 				[
-					[
-						"reind",
-						"Indentation: Reindent Lines"
-					],
 					[
 						"ins",
 						"Package Control: Install Package"
 					],
 					[
 						"Package Control: ",
-						"Package Control: Add Repository"
+						"Package Control: Disable Package"
 					],
 					[
 						"pro",
@@ -1747,7 +1637,7 @@
 						"Extract Sublime Package: Extract all packages"
 					]
 				],
-				"width": 484.0
+				"width": 708.0
 			},
 			"console":
 			{
@@ -1767,72 +1657,62 @@
 			},
 			"file_history":
 			[
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/interview-5(equilibrium_point).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/interview-4(Count distinct elements in every window ).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/interview-3(subarray_with_givin_sum).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/interview-2(stock_sbuy_and_sell).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/interview-1(rain_water_problem).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/dp-43(matrix_chain_multiplication-detail).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/dp-42(egg_dropping).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/binary_search-1(aggressive_cows).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/concept-7(time_comple).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/permutation_and_c(theory).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/trie-6(que_3).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/trie-5(count_prefix_of_set_of_words).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/trie-5(for_cp).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/bankers_algorithm-1.sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/firstfile.html",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/trie-4(maximum_xor_in_range).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/trie-3(max_fre).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/trie2-(string_search_good_implement).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/dfs_modified.sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/linkedlist-4(intersection_of-two_linkedlist).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/linkedlist-2(find_middle).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/readme.md",
-				"/C/Users/Dell Indpiron/Desktop/opensourse/project2/cs-algorithms/Dynamic Programming/wine problem/cpp/wine_problem.cpp",
-				"/C/Users/Dell Indpiron/Desktop/opensourse/project3/cs-algorithms/Dynamic Programming/partition problem/cpp/partition_problem.cpp",
-				"/C/Users/Dell Indpiron/Desktop/opensourse/projects4/cs-algorithms/Backtracking/rat in a maze/cpp/rat_in_maze.cpp",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/linkedlist-1(reverse).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/dp-35(travelling_salesman_with_dp).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/dp-41(coin_probab).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/dp-38(longest_path_directed_graph).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/concept-10(remove_element_from_vector).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/concept-9(unique_stl_distance_stl).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/backtracking-5(sudoko).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/joseph.sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/backtracking-5(hamil_with_bitmask).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/practice2.cpp",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/backtracking-4(hamiltonion_path).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/backtracking-3(m_coloring).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/backtracking-2(n_queen).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/backtracking-1(rat_in_maze).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/dp_on_trees-2(diameter_of_the_tree).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/dp_on_trees-1(max_alternate_coins).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/concept-8(time_compl).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/concept-7(tockenizing_a_string).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/bitmasking-1(unique_numbers-3).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/dp-9(optimal_game_stategy).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/mod.sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/dp-17(subset_sum_equal_k).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/dp-16(equal_partition_problem).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/dp-4(Edit_distance).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/dp_6(longest_comm_subsequence).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/graph-40(dijkstra_full_code).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/graph-14(dijkstra-n2square).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/dp-5(longest_inc_subsequnce).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/dfs_order(example_1).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/dfs_order(clear).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/dfs_order(dfs+segmenttree).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/google chrome.sublime-build",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/stringmatching(n^2).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/rabin_karp_algo.sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/graph-20(dijkstra(set_cp)).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/start.sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/basics.sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/graph-30(prims_set_1(elogv)).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/graph-31(prims_mst_set_working_code).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/graph-11(dSA_by_rank_path_compression).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/graph_23(scc_all_compo).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/graph-55(travelling_sales_man).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/graph-54_snakes_and_ladder.sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/bipartite.sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/graph-53(tarjens algorithm).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/graph-52_kosaraju.sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/heap.sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/catalan_number.sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/bst.sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/lru.sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/output.in",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/kmp_pattern_search.sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/manacher.sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/nee.cpp",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/cc.cpp",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/fenwick_tree(inversion_count(merge_sort)).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/graph-30(prims_set_1(elogv)).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/binary_search(peak_element).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/no of pair with sum.sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/binary_search(peak).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/pie.sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/file.cpp",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/fibonacci(logn).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/fibo_cpp(logn).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/seg_tree(fibonacci_meets_gcd).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/seg_tree(max_queries).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/seg_tree(horrible).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/seg_tree(gss1).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/array-5(stock_buy_sell).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/divide_and_conquer(simple enough).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/bs_find_pivot.sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/binary_search_a1(square_root_upto_p_presision).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/id-14(josephus).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/power_set.sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/prime_seive_theory.sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/push_back.sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/bst-1(insert_search_delete).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/heap-1(median_in_running_stream).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/precision.sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/probability(coupen_collector).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/bigint.sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/divisors(npow1by3).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/ncr.sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/vector_2d.sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/dp-51(max_sub_square_matrix).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/dp-51(wild_card_matching).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/fenwick_tree(Inversioncount_pbds).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/pbds.sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/priority_queue_question.sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/dp-42(egg_dropping).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/graph-31(articulation_points).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/continue.sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/dp-50(min_vertix_cover).sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/WakaTime/WakaTime.sublime-settings",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/WakaTime.sublime-settings",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/bitmask_subset_sum.sublime-snippet",
+				"/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/fi.cpp",
 				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/graph-24(checking_scc_compo).sublime-snippet",
 				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/dp-15(knapsack(0_1)_bottom_up).sublime-snippet",
 				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/read.sublime-snippet",
@@ -1840,6 +1720,7 @@
 				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/dfs_directed_cycle_check.sublime-snippet",
 				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/graph-8(cycle_check_directed_graph).sublime-snippet",
 				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/enum.sublime-snippet",
+				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/start.sublime-snippet",
 				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/aa.sublime-snippet",
 				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/input.in",
 				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/c++input.sublime-build",
@@ -1851,6 +1732,7 @@
 				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/concept-7(graph).sublime-snippet",
 				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/graph-22(bellmanford).sublime-snippet",
 				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/graph-22(bellman_ford(e(v-1))).(v-1)))",
+				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/graph-20(dijkstra(set_cp)).sublime-snippet",
 				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/graph-21(floyd_warshal).sublime-snippet",
 				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/asas.cpp",
 				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/euler_graph_print(fluery_algo).sublime-snippet",
@@ -1873,6 +1755,7 @@
 				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/factorial(Big_greater_than_20).sublime-snippet",
 				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/priority_queue(min_pq).sublime-snippet",
 				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/priority_queue(max).sublime-snippet",
+				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/basics.sublime-snippet",
 				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/newcool.cpp",
 				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/sqrt_logn.sublime-snippet",
 				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/fibonachaii_series.sublime-snippet",
@@ -1894,11 +1777,18 @@
 				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/binary_search(search_in_sorted_array).sublime-snippet",
 				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/binary_search(last_occurance).sublime-snippet",
 				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/binary_search(lower_bound).sublime-snippet",
-				"/C/Users/Dell Indpiron/Desktop/myfile.cpp"
+				"/C/Users/Dell Indpiron/Desktop/myfile.cpp",
+				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/graph-20(bellman_ford).sublime-snippet",
+				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/trie.sublime-snippet",
+				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/concept-3(string_sentence_input).sublime-snippet",
+				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/fenwick_tree(range_update_point_query).sublime-snippet",
+				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/binary_search_stl.sublime-snippet",
+				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/fenwick_tree(dperm(codechef)).sublime-snippet",
+				"/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/fenwick_tree(inversion_count).sublime-snippet"
 			],
 			"find":
 			{
-				"height": 41.0
+				"height": 53.0
 			},
 			"find_in_files":
 			{
@@ -1912,81 +1802,21 @@
 				"case_sensitive": true,
 				"find_history":
 				[
-					"second",
-					"first",
-					"need",
-					"2",
-					"1",
-					"max",
-					"allocation",
-					"0",
-					"float",
-					"6521",
-					"2934894 | 2937334\n",
-					"finnd",
 					"}\n",
-					"1",
-					"PRVasFSaDAflAa",
-					"PRuvetSTAaYA",
-					"4328 407",
-					"vvvovvv",
-					")/])){",
-					"1",
-					"rr2",
-					"4",
-					"1",
-					"#include<bits/stdc++.h>\nusing namespace std;\n#define ll long long int\nint main(){\nll h,q;cin>>h>>q;\nchar in[h][q];\nfor(ll x=0;x<h;x++){\n for(ll w=0;w<q;w++){\n     cin>>in[x][w];   \n    }   \n}\n\nll flag=0;\nll le=-1,re=-1,up=-1,dw=-1;ll cn=-1;\nfor(ll x=0;x<h;x++){\n ll w=0;\n for(w=0;w<q;w++){\n    if((le!=-1||re!=-1||up!=-1||dw!=-1||cn!=-1)&&(in[x][w]=='*')){\n        flag=1;\n    //cout<<\" h1\"<<endl;\n        break;\n    }\n     if(in[x][w]=='*'){\n        if(in[x+1][w]!='*'){\n            flag=1;\n        }\n        else{\n            ll lr=-1;\n           \n            if(w-1<0||w+1>=q){\n                flag=1;\n               // cout<<\" h3\"<<endl;\n                break;\n            }\n            in[x][w]='.';\n            up=w;\n        for(ll y=x+1;y<h;y++){\n           dw=y;\n            in[y][w]='.';\n          if((in[y][w+1]=='*')&&(in[y][w-1]!='*')){\n         flag=1;break;\n          }\nif((in[y][w+1]!='*')&&(in[y][w-1]=='*')){\n     flag=1;break;\n          }\n          if((in[y][w+1]=='*')&&(in[y][w-1]=='*')){\n            cn=y;\n            //cout<<\" w+1 \"<<w<<endl;\n         for(ll u=w+1;u<q;u++){\n            if(in[y][u]=='*'){\n              re=u;\n           //   cout<<\"here\"<<endl;\n              in[y][u]='.';\n\n            }\n            else{\n                break;\n            }\n         }\n         for(ll u=w-1;u>=0;u--){\n            if(in[y][u]=='*'){\n              le=u;\n                     in[y][u]='.';\n\n            }\n            else{\n                break;\n            }\n         }\n\n         //cout<<\"y\"<<y<<\" \"<<in[y+1][w]<<endl;\n         if(in[y+1][w]!='*'){\n     flag=1;\n        }\n\n         \n          }\n        } \n    \n        }\n\n     }   \n    if(flag==1){\n        break;\n    }\n    }\n  \n    if(flag==1){\n        break;\n    }\n}\n\nif(flag==1){\n    cout<<\"NO\"<<endl;\n}\nelse{\n    cout<<\"YES\"<<endl;\n}\n}\n",
-					"j",
-					"1",
-					"profit",
-					"())   ",
-					" >(",
-					">>(",
-					"begin",
-					"    \n",
-					"\");\n",
-					"variables",
-					"function",
 					";\n",
-					"i ",
-					"[0-9]   ",
-					"4315",
-					"!",
-					"gcc",
-					"cutLen",
-					" ;",
-					"prim",
-					"string",
-					"false",
-					"NAME",
-					"expr",
-					"np",
-					"addMi",
-					"add",
-					"addMinus",
-					"\t\t//calculate the result corresponding to token\n",
-					"Token_value get_t",
-					"Token_value get_to",
-					"get_to",
-					"get",
-					"token",
-					"mai",
-					"main",
-					"visisted",
-					"cout",
-					"public",
-					"nV",
-					"element",
-					"push",
-					" ;",
-					"        {{",
-					"\n#",
-					"//Deepak Aggarwal, Coding Blocks\n\n#include <iostream>\nusing namespace std;\nint main(){\n\t// 12;\n\t\n\tchar *ptr = \"abc\";\n\tchar arr[] = \"abc\";\n\t// ptr[0] = 'k';\n\tarrr[0] = 'k';\n\tcout << ptr;\n\n\n\t// char s1[] = \"abc\";\n\n\n\t// char s2[] = s1;\t\n\n}",
-					"include",
-					"}\n",
-					"dim",
-					"N",
-					";\n"
+					"fl",
+					"for",
+					"2",
+					"3",
+					"2",
+					");\n",
+					"9",
+					"i",
+					";\n",
+					"5",
+					"parent",
+					"y_set",
+					"x_set"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1994,14 +1824,6 @@
 				"regex": true,
 				"replace_history":
 				[
-					"double",
-					"div",
-					"",
-					"4314",
-					"curLen",
-					"visited",
-					"10",
-					"dim"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -2012,76 +1834,16 @@
 			"groups":
 			[
 				{
-					"selected": 3,
+					"selected": 2,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "newcool.cpp",
+							"file": "/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/asas.cpp",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 594,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										455,
-										455
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/C++/C++.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 571.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 8,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "nee.cpp",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 933,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										299,
-										299
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/C++/C++.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "myfile.cpp",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 0,
+								"buffer_size": 640,
 								"regions":
 								{
 								},
@@ -2089,7 +1851,7 @@
 								[
 									[
 										0,
-										0
+										640
 									]
 								],
 								"settings":
@@ -2099,33 +1861,63 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 325.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 4,
 							"type": "text"
 						},
 						{
-							"buffer": 3,
-							"file": "practice.cpp",
+							"buffer": 1,
+							"file": "/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/cc.cpp",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 729,
+								"buffer_size": 428,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										317,
-										317
+										274,
+										274
 									]
 								],
 								"settings":
 								{
 									"syntax": "Packages/C++/C++.sublime-syntax",
-									"tab_size": 2,
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 156.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/file.cpp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 214,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										14,
+										14
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
@@ -2133,97 +1925,6 @@
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "asas.cpp",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 0,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/C++/C++.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 7,
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "new.cpp",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1268,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										590,
-										590
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/C++/C++.sublime-syntax",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 680.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 6,
-							"type": "text"
-						},
-						{
-							"buffer": 6,
-							"file": "cc.cpp",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 722,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										285,
-										285
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/C++/C++.sublime-syntax",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true,
-									"word_wrap": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 260.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
 							"type": "text"
 						}
 					]
@@ -2233,8 +1934,8 @@
 					"sheets":
 					[
 						{
-							"buffer": 7,
-							"file": "input.in",
+							"buffer": 3,
+							"file": "/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/input.in",
 							"semi_transient": false,
 							"settings":
 							{
@@ -2245,8 +1946,8 @@
 								"selection":
 								[
 									[
-										97,
-										97
+										96,
+										14
 									]
 								],
 								"settings":
@@ -2257,7 +1958,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 4,
+							"stack_index": 1,
 							"type": "text"
 						}
 					]
@@ -2267,20 +1968,20 @@
 					"sheets":
 					[
 						{
-							"buffer": 8,
-							"file": "output.in",
+							"buffer": 4,
+							"file": "/C/Users/DELL/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/output.in",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 8,
+								"buffer_size": 161,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										3,
-										3
+										0,
+										0
 									]
 								],
 								"settings":
@@ -2291,7 +1992,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 5,
+							"stack_index": 2,
 							"type": "text"
 						}
 					]
@@ -2299,7 +2000,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 28.0
+				"height": 35.0
 			},
 			"input":
 			{
@@ -2313,7 +2014,7 @@
 						0,
 						0,
 						1,
-						1
+						2
 					],
 					[
 						1,
@@ -2322,22 +2023,22 @@
 						1
 					],
 					[
+						1,
+						1,
 						2,
-						0,
-						3,
-						1
+						2
 					]
 				],
 				"cols":
 				[
 					0.0,
-					0.487066861884,
-					0.678885595591,
+					0.618098631996,
 					1.0
 				],
 				"rows":
 				[
 					0.0,
+					0.591849935317,
 					1.0
 				]
 			},
@@ -2348,18 +2049,18 @@
 			},
 			"output.exec":
 			{
-				"height": 93.0
+				"height": 140.0
 			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
 			"pinned_build_system": "Packages/User/c++input.sublime-build",
-			"position": "0,2,3,-1,-1,-1,-1,497,724,0,1232",
-			"project": "cppdebug.sublime-project",
+			"position": "0,2,3,-32000,-32000,-1,-1,806,16,12,802",
+			"project": "",
 			"replace":
 			{
-				"height": 73.0
+				"height": 65.0
 			},
 			"save_all_on_build": false,
 			"select_file":
@@ -2396,6 +2097,27 @@
 			"selected_group": 0,
 			"settings":
 			{
+				"last_automatic_layout":
+				[
+					[
+						0,
+						0,
+						1,
+						2
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					],
+					[
+						1,
+						1,
+						2,
+						2
+					]
+				]
 			},
 			"show_minimap": false,
 			"show_open_files": false,
@@ -2407,8 +2129,8 @@
 			{
 				"max_columns": 2
 			},
-			"window_id": 13,
-			"workspace_name": "/C/Users/Dell Indpiron/Desktop/cpp-toolkit-master/cpp-toolkit-master/Sublime_1326/Data/Packages/User/cppdebug.sublime-workspace"
+			"window_id": 48,
+			"workspace_name": ""
 		}
 	],
 	"workspaces":

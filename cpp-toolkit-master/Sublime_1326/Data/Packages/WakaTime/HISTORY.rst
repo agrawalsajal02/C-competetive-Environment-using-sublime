@@ -3,6 +3,53 @@ History
 -------
 
 
+9.1.2 (2020-02-13)
+++++++++++++++++++
+
+- Upgrade wakatime-cli to v13.0.7.
+- Split bundled pygments library for Python 2.7+.
+- Upgrade pygments for py27+ to v2.5.2 development master.
+- Force requests to use bundled ca cert from certifi by default.
+- Upgrade bundled certifi to v2019.11.28.
+
+
+9.1.1 (2020-02-11)
+++++++++++++++++++
+
+- Fix typo in python detection on Windows platform.
+
+
+9.1.0 (2020-02-09)
+++++++++++++++++++
+
+- Detect python in Windows LocalAppData install locations.
+- Upgrade wakatime-cli to v13.0.4.
+- Bundle cryptography, pyopenssl, and ipaddress packages for improved SSL
+  support on Python2.
+
+
+9.0.2 (2019-12-04)
+++++++++++++++++++
+
+- Upgrade wakatime-cli to v13.0.3.
+- Support slashes in Mercurial and Git branch names.
+  `wakatime#199 <https://github.com/wakatime/wakatime/issues/199>`_
+
+
+9.0.1 (2019-11-24)
+++++++++++++++++++
+
+- Upgrade wakatime-cli to v13.0.2.
+- Filter dependencies longer than 200 characters.
+- Close sqlite connection even when error raised.
+  `wakatime#196 <https://github.com/wakatime/wakatime/issues/196>`_
+- Detect ColdFusion as root language instead of HTML.
+- New arguments for reading and writing ini config file.
+- Today argument shows categories when available.
+- Prevent unnecessarily debug log when syncing offline heartbeats.
+- Support for Python 3.7.
+
+
 9.0.0 (2019-06-23)
 ++++++++++++++++++
 

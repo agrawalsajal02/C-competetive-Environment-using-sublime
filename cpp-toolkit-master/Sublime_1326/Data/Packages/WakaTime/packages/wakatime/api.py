@@ -19,10 +19,10 @@ from .compat import u, is_py3, json
 from .constants import API_ERROR, AUTH_ERROR, SUCCESS, UNKNOWN_ERROR
 
 from .offlinequeue import Queue
-from .packages.requests.exceptions import RequestException
 from .session_cache import SessionCache
 from .utils import get_hostname, get_user_agent
 from .packages import tzlocal
+from .packages import certifi
 
 
 log = logging.getLogger('WakaTime')
@@ -36,6 +36,9 @@ except ImportError:  # pragma: nocover
     log.error('Please upgrade Python to the latest version.')
     print('Please upgrade Python to the latest version.')
     sys.exit(UNKNOWN_ERROR)
+
+
+from .packages.requests.exceptions import RequestException
 
 
 def send_heartbeats(heartbeats, args, configs, use_ntlm_proxy=False):
@@ -99,16 +102,12 @@ def send_heartbeats(heartbeats, args, configs, use_ntlm_proxy=False):
             should_try_ntlm = '\\' in args.proxy
             proxies['https'] = args.proxy
 
-    ssl_verify = not args.nosslverify
-    if args.ssl_certs_file and ssl_verify:
-        ssl_verify = args.ssl_certs_file
-
     # send request to api
     response, code = None, None
     try:
         response = session.post(api_url, data=request_body, headers=headers,
                                 proxies=proxies, timeout=timeout,
-                                verify=ssl_verify)
+                                verify=_get_verify(args))
     except RequestException:
         if should_try_ntlm:
             return send_heartbeats(heartbeats, args, configs, use_ntlm_proxy=True)
@@ -202,10 +201,6 @@ def get_time_today(args, use_ntlm_proxy=False):
             should_try_ntlm = '\\' in args.proxy
             proxies['https'] = args.proxy
 
-    ssl_verify = not args.nosslverify
-    if args.ssl_certs_file and ssl_verify:
-        ssl_verify = args.ssl_certs_file
-
     params = {
         'start': 'today',
         'end': 'today',
@@ -216,7 +211,7 @@ def get_time_today(args, use_ntlm_proxy=False):
     try:
         response = session.get(url, params=params, headers=headers,
                                proxies=proxies, timeout=timeout,
-                               verify=ssl_verify)
+                               verify=_get_verify(args))
     except RequestException:
         if should_try_ntlm:
             return get_time_today(args, use_ntlm_proxy=True)
@@ -250,7 +245,11 @@ def get_time_today(args, use_ntlm_proxy=False):
 
     if code == requests.codes.ok:
         try:
-            text = response.json()['data'][0]['grand_total']['text']
+            summary = response.json()['data'][0]
+            if len(summary['categories']) > 1:
+                text = ', '.join(['{0} {1}'.format(x['text'], x['name'].lower()) for x in summary['categories']])
+            else:
+                text = summary['grand_total']['text']
             session_cache.save(session)
             return text, SUCCESS
         except:
@@ -274,6 +273,16 @@ def get_time_today(args, use_ntlm_proxy=False):
         if log.isEnabledFor(logging.DEBUG):
             return 'Error: {0}'.format(code), API_ERROR
         return None, API_ERROR
+
+
+def _get_verify(args):
+    verify = not args.nosslverify
+    if verify:
+        if args.ssl_certs_file:
+            verify = args.ssl_certs_file
+        else:
+            verify = certifi.where()
+    return verify
 
 
 def _process_server_results(heartbeats, code, content, results, args, configs):

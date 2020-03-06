@@ -21,6 +21,13 @@ pwd = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, os.path.dirname(pwd))
 sys.path.insert(0, os.path.join(pwd, 'packages'))
 
+from .compat import is_py26
+
+if is_py26:
+    sys.path.insert(0, os.path.join(pwd, 'packages', 'py26'))
+else:
+    sys.path.insert(0, os.path.join(pwd, 'packages', 'py27'))
+
 from .__about__ import __version__
 from .api import send_heartbeats, get_time_today
 from .arguments import parse_arguments
@@ -28,7 +35,9 @@ from .compat import u, json
 from .constants import SUCCESS, UNKNOWN_ERROR, HEARTBEATS_PER_REQUEST
 from .logger import setup_logging
 
+
 log = logging.getLogger('WakaTime')
+
 
 from .heartbeat import Heartbeat
 from .offlinequeue import Queue
@@ -38,7 +47,10 @@ def execute(argv=None):
     if argv:
         sys.argv = ['wakatime'] + argv
 
-    args, configs = parse_arguments()
+    try:
+        args, configs = parse_arguments()
+    except SystemExit as ex:
+        return ex.code
 
     setup_logging(args, __version__)
 
@@ -54,7 +66,7 @@ def execute(argv=None):
         hb = Heartbeat(vars(args), args, configs)
         if hb:
             heartbeats.append(hb)
-        else:
+        elif args.entity:
             log.debug(hb.skip)
 
         if args.extra_heartbeats:
